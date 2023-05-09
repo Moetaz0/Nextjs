@@ -1,0 +1,24 @@
+.stylediv
+{ 
+width: 200px; 
+height: 50px; 
+margin: 0 auto; 
+text-align: center; 
+align-items: center; 
+padding-top: 1.5rem; 
+padding-bottom: 1.5rem; 
+} 
+.exemple:hover { 
+background: #b3b7bc; 
+} 
+.stylepop{ 
+position: absolute; 
+top:200px; 
+max-width: 100%; 
+} 
+.containerst{ 
+background-color: #f2f3f4; 
+height:870px; 
+}
+
+
